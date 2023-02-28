@@ -1,0 +1,9 @@
+ .banner{
+    position: relative;
+ }
+ .banner-2{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    text-align: center;
+}
